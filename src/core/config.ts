@@ -45,8 +45,6 @@ export default {
    */
   silent: false,
 
-  aa: false,
-
   /**
    * Show production mode tip message on boot?
    */
